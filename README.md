@@ -168,7 +168,28 @@ Frontend:
 
 ## Evidencias por fase
 
-<!-- Una subsección por cada fase de la guía, con capturas o salidas de comandos y unas líneas de lo que observaste. -->
+### Evidencia 0: 
+
+Link del repositorio: https://github.com/AngelyDema/GRUPO5-practica6
+
+![Capture del repositorio creado](image.png)
+
+Resultado de Gcloud config list: 
+![imagen de gcloug config list](image-1.png)
+
+### Evidencia 1: 
+
+*Imagenes creadas:*
+
+Backend: 
+![alt text](image-3.png)
+
+Frontend: 
+![alt text](image-4.png)
+
+Capture de la url frontend: 
+![alt text](image-2.png)
+
 
 ## Decisiones del reto
 
