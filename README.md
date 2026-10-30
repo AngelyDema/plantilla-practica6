@@ -190,7 +190,11 @@ Frontend:
 Capture de la url frontend: 
 ![alt text](image-2.png)
 
-
+### Evidencia 2: 
+Bucket: 
+![alt text](image-7.png)
+Imagen del frontend: 
+![alt text](image-6.png)
 ## Decisiones del reto
 
 <!-- Qué cambiaste, por qué y cómo comprobaste que funciona. -->
